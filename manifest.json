@@ -1,0 +1,1657 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "The Lotuz - Luxury Hotel Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/elementor.altdesain.com\/thelotuz",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/elementor.altdesain.com\/thelotuz\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/elementor.altdesain.com\/thelotuz\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Custom Header Menus",
+            "screenshot": "screenshots\/custom-header-menus.jpg",
+            "source": "templates\/custom-header-menus.json",
+            "preview_url": "https:\/\/elementor.altdesain.com\/thelotuz\/template-kit\/custom-header-menus\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Newsletter Form",
+            "screenshot": "screenshots\/newsletter-form.jpg",
+            "source": "templates\/newsletter-form.json",
+            "preview_url": "https:\/\/elementor.altdesain.com\/thelotuz\/template-kit\/newsletter-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Booking Form",
+            "screenshot": "screenshots\/booking-form.jpg",
+            "source": "templates\/booking-form.json",
+            "preview_url": "https:\/\/elementor.altdesain.com\/thelotuz\/template-kit\/booking-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Form",
+            "screenshot": "screenshots\/contact-form.jpg",
+            "source": "templates\/contact-form.json",
+            "preview_url": "https:\/\/elementor.altdesain.com\/thelotuz\/template-kit\/contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/elementor.altdesain.com\/thelotuz\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/elementor.altdesain.com\/thelotuz\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/elementor.altdesain.com\/thelotuz\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Facilities",
+            "screenshot": "screenshots\/facilities.jpg",
+            "source": "templates\/facilities.json",
+            "preview_url": "https:\/\/elementor.altdesain.com\/thelotuz\/template-kit\/facilities\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Room Type",
+            "screenshot": "screenshots\/room-type.jpg",
+            "source": "templates\/room-type.json",
+            "preview_url": "https:\/\/elementor.altdesain.com\/thelotuz\/template-kit\/room-type\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Room",
+            "screenshot": "screenshots\/single-room.jpg",
+            "source": "templates\/single-room.json",
+            "preview_url": "https:\/\/elementor.altdesain.com\/thelotuz\/template-kit\/single-room\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/elementor.altdesain.com\/thelotuz\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/elementor.altdesain.com\/thelotuz\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/elementor.altdesain.com\/thelotuz\/template-kit\/single-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.24.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.2.8",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.9.0",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Sticky Header Effects for Elementor",
+            "version": "1.7.2",
+            "file": "sticky-header-effects-for-elementor\/sticky-header-effects-for-elementor.php",
+            "author": "Rwattner"
+        }
+    ],
+    "images": [
+        {
+            "filename": "LOGO.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/LOGO.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 2783,
+            "dimensions": [
+                64,
+                76
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "LOGO-FOOTER.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/LOGO-FOOTER.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 4562,
+            "dimensions": [
+                167,
+                77
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "SIGN1.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/SIGN1.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 810,
+            "dimensions": [
+                130,
+                29
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "LOGO2.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/LOGO2.png",
+            "templates": [
+                {
+                    "source": "templates\/custom-header-menus.json",
+                    "name": "Custom Header Menus"
+                }
+            ],
+            "filesize": 6543,
+            "dimensions": [
+                167,
+                77
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "SIGN2.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/SIGN2.png",
+            "templates": [
+                {
+                    "source": "templates\/custom-header-menus.json",
+                    "name": "Custom Header Menus"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 1145,
+            "dimensions": [
+                130,
+                29
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "BG1.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/BG1-800x380.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 141028,
+            "dimensions": [
+                1920,
+                912
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "ELM1.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/ELM1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                },
+                {
+                    "source": "templates\/room-type.json",
+                    "name": "Room Type"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 17368,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "BG2.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/BG2-800x701.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8238,
+            "dimensions": [
+                960,
+                841
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "IMG1.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/IMG1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 49151,
+            "dimensions": [
+                447,
+                540
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "BG3.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/BG3-800x293.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 108549,
+            "dimensions": [
+                1920,
+                703
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "3d-rendering-red-luxury-bedroom-suite-in-resort-hi-2023-11-27-05-23-13-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/3d-rendering-red-luxury-bedroom-suite-in-resort-hi-2023-11-27-05-23-13-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/room-type.json",
+                    "name": "Room Type"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 79166,
+            "dimensions": [
+                763,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/3d-rendering-red-luxury-bedroom-suite-in-resort-hi-N7YHP2Q"
+        },
+        {
+            "filename": "3d-rendering-luxury-bedroom-suite-in-resort-high-r-2023-11-27-05-10-52-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/3d-rendering-luxury-bedroom-suite-in-resort-high-r-2023-11-27-05-10-52-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/room-type.json",
+                    "name": "Room Type"
+                }
+            ],
+            "filesize": 80467,
+            "dimensions": [
+                763,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/3d-rendering-luxury-bedroom-suite-in-resort-high-r-NREMFGW"
+        },
+        {
+            "filename": "3d-rendering-luxury-bedroom-suite-in-resort-high-r-2023-11-27-05-30-48-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/3d-rendering-luxury-bedroom-suite-in-resort-high-r-2023-11-27-05-30-48-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/room-type.json",
+                    "name": "Room Type"
+                }
+            ],
+            "filesize": 84339,
+            "dimensions": [
+                763,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/3d-rendering-luxury-bedroom-suite-in-resort-high-r-C2W55TY"
+        },
+        {
+            "filename": "ELM2.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/ELM2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                },
+                {
+                    "source": "templates\/room-type.json",
+                    "name": "Room Type"
+                }
+            ],
+            "filesize": 9397,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "AVA1.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/AVA1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 9469,
+            "dimensions": [
+                64,
+                65
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "AVA2.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/AVA2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 6791,
+            "dimensions": [
+                64,
+                65
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "BG4.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/BG4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 21174,
+            "dimensions": [
+                611,
+                385
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "IMG2.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/IMG2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 76791,
+            "dimensions": [
+                480,
+                567
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "IMG3.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/IMG3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 24343,
+            "dimensions": [
+                480,
+                567
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "IMG4.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/IMG4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 57304,
+            "dimensions": [
+                480,
+                567
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "IMG5.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/IMG5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 51687,
+            "dimensions": [
+                480,
+                567
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "ELM3.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/ELM3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                },
+                {
+                    "source": "templates\/room-type.json",
+                    "name": "Room Type"
+                }
+            ],
+            "filesize": 3306,
+            "dimensions": [
+                118,
+                118
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "IMG6.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/IMG6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                },
+                {
+                    "source": "templates\/room-type.json",
+                    "name": "Room Type"
+                }
+            ],
+            "filesize": 87092,
+            "dimensions": [
+                525,
+                539
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "BG5.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/BG5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                },
+                {
+                    "source": "templates\/room-type.json",
+                    "name": "Room Type"
+                }
+            ],
+            "filesize": 4989,
+            "dimensions": [
+                518,
+                300
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "ELM4.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/ELM4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                },
+                {
+                    "source": "templates\/room-type.json",
+                    "name": "Room Type"
+                }
+            ],
+            "filesize": 16626,
+            "dimensions": [
+                177,
+                49
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "BG6.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/BG6-800x310.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                },
+                {
+                    "source": "templates\/room-type.json",
+                    "name": "Room Type"
+                }
+            ],
+            "filesize": 14913,
+            "dimensions": [
+                1920,
+                743
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "BG7-rev1.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/BG7-rev1-800x84.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                },
+                {
+                    "source": "templates\/room-type.json",
+                    "name": "Room Type"
+                },
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 52796,
+            "dimensions": [
+                1920,
+                201
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "BG8.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/BG8-800x162.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                },
+                {
+                    "source": "templates\/room-type.json",
+                    "name": "Room Type"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 85970,
+            "dimensions": [
+                1920,
+                388
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "BG11.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/BG11-800x394.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 14098,
+            "dimensions": [
+                1920,
+                945
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "IMG8.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/IMG8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 17491,
+            "dimensions": [
+                255,
+                289
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "IMG7.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/IMG7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 78086,
+            "dimensions": [
+                303,
+                406
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "IMG9.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/IMG9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 40163,
+            "dimensions": [
+                255,
+                289
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "BG9.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/BG9-800x287.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 8667,
+            "dimensions": [
+                956,
+                343
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "BG10.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/BG10-800x287.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 4161,
+            "dimensions": [
+                956,
+                343
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "LOTUS-MINI.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/LOTUS-MINI.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 823,
+            "dimensions": [
+                25,
+                25
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "IMG10.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/IMG10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 74570,
+            "dimensions": [
+                486,
+                540
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "IMG11.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/IMG11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 45013,
+            "dimensions": [
+                486,
+                540
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "IMG12.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/IMG12.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 44327,
+            "dimensions": [
+                272,
+                305
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "IMG13.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/IMG13.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 20209,
+            "dimensions": [
+                273,
+                305
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "IMG14.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/IMG14.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 30701,
+            "dimensions": [
+                273,
+                305
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "IMG15.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/IMG15.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 30222,
+            "dimensions": [
+                272,
+                305
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "IMG16.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/IMG16.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 51375,
+            "dimensions": [
+                272,
+                305
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "IMG17.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/IMG17.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 23885,
+            "dimensions": [
+                273,
+                305
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "IMG18.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/IMG18.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 45908,
+            "dimensions": [
+                273,
+                305
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "IMG19.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/IMG19.jpg",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 37478,
+            "dimensions": [
+                272,
+                305
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "BG12.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/BG12-800x229.png",
+            "templates": [
+                {
+                    "source": "templates\/facilities.json",
+                    "name": "Facilities"
+                }
+            ],
+            "filesize": 3360,
+            "dimensions": [
+                1073,
+                307
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "3d-rendering-luxury-tropical-bedroom-suite-in-reso-2023-11-27-05-04-41-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/3d-rendering-luxury-tropical-bedroom-suite-in-reso-2023-11-27-05-04-41-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-type.json",
+                    "name": "Room Type"
+                }
+            ],
+            "filesize": 82177,
+            "dimensions": [
+                763,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/3d-rendering-luxury-tropical-bedroom-suite-in-reso-S3ESAUP"
+        },
+        {
+            "filename": "3d-rendering-luxury-chinese-bedroom-suite-in-resor-2023-11-27-05-19-09-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/3d-rendering-luxury-chinese-bedroom-suite-in-resor-2023-11-27-05-19-09-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-type.json",
+                    "name": "Room Type"
+                }
+            ],
+            "filesize": 76800,
+            "dimensions": [
+                763,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/3d-rendering-luxury-chinese-bedroom-suite-in-resor-4KY46AR"
+        },
+        {
+            "filename": "3d-rendering-luxury-tropical-bedroom-suite-in-reso-2023-11-27-05-23-46-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/3d-rendering-luxury-tropical-bedroom-suite-in-reso-2023-11-27-05-23-46-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/room-type.json",
+                    "name": "Room Type"
+                }
+            ],
+            "filesize": 83485,
+            "dimensions": [
+                763,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/3d-rendering-luxury-tropical-bedroom-suite-in-reso-LYA3KGP"
+        },
+        {
+            "filename": "mediterranean-villa-interior-and-exterior-design-2024-09-22-14-16-37-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/mediterranean-villa-interior-and-exterior-design-2024-09-22-14-16-37-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 118152,
+            "dimensions": [
+                763,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/mediterranean-villa-interior-and-exterior-design-RPVFYNW"
+        },
+        {
+            "filename": "3d-rendering-wood-and-tile-design-bathroom-near-wi-2023-11-27-05-21-27-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/3d-rendering-wood-and-tile-design-bathroom-near-wi-2023-11-27-05-21-27-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 64575,
+            "dimensions": [
+                763,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/3d-rendering-wood-and-tile-design-bathroom-near-wi-8ATQHMK"
+        },
+        {
+            "filename": "ICON1.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/ICON1.png",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 1175,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "ICON2.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/ICON2.png",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 719,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "ICON3.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/ICON3.png",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 1036,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "ICON4.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/ICON4.png",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 795,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "ICON6.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/ICON6.png",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 925,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "ICON8.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/ICON8.png",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 734,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "ICON10.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/ICON10.png",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 1252,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "ICON12.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/ICON12.png",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 1413,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "ICON5.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/ICON5.png",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 672,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "ICON7.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/ICON7.png",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 1084,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "ICON9.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/ICON9.png",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 806,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "ICON11.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/ICON11.png",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 835,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "ICON13.png",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/ICON13.png",
+            "templates": [
+                {
+                    "source": "templates\/single-room.json",
+                    "name": "Single Room"
+                }
+            ],
+            "filesize": 757,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "IMG20.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/IMG20.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 81951,
+            "dimensions": [
+                397,
+                509
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "BG13-rev1.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/BG13-rev1-800x309.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 89503,
+            "dimensions": [
+                1920,
+                741
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "group-of-friends-partying-on-the-beach-2023-11-27-05-15-32-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/group-of-friends-partying-on-the-beach-2023-11-27-05-15-32-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 121279,
+            "dimensions": [
+                763,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-friends-partying-on-the-beach-BYDD2FN"
+        },
+        {
+            "filename": "friends-toasting-drinks-at-party-2024-09-18-00-31-12-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/friends-toasting-drinks-at-party-2024-09-18-00-31-12-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 73253,
+            "dimensions": [
+                763,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/friends-toasting-drinks-at-party-PHH59H4"
+        },
+        {
+            "filename": "making-selfie-group-of-young-people-is-traveling-2023-11-27-05-10-28-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/making-selfie-group-of-young-people-is-traveling-2023-11-27-05-10-28-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 126250,
+            "dimensions": [
+                763,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/making-selfie-group-of-young-people-is-traveling-t-5Z6MZYX"
+        },
+        {
+            "filename": "above-angle-of-young-female-traveler-passing-her-s-2023-11-27-05-33-27-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.altdesain.com\/thelotuz\/wp-content\/uploads\/2024\/10\/above-angle-of-young-female-traveler-passing-her-s-2023-11-27-05-33-27-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 50464,
+            "dimensions": [
+                770,
+                372
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/above-angle-of-young-female-traveler-passing-her-s-DQKJNUJ"
+        }
+    ]
+}
